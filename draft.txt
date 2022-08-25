@@ -1,1 +1,1 @@
-This file is for testing draft prs and get the data from github GQL API
+This file is for testing draft prs and get the data from github GQL API 1
